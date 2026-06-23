@@ -8,7 +8,7 @@
 
 - 📊 Estudando **Ciência de Dados** pela EBAC
 - 🐍 Focado em **Python, Pandas, NumPy e Machine Learning**
-- 🎯 Construindo portfólio com dados de futebol, saúde pública e finanças
+- 🎯 Construindo portfólio com dados de futebol, saúde pública, finanças e música
 - 📍 Rio de Janeiro, RJ — Brasil
 - 🎓 Graduando em **Filosofia** pela Universidade Cruzeiro do Sul
 
@@ -46,7 +46,8 @@
 | 📺 Análise Globo x Brasileirão | Audiência vs desempenho dos times | Python, Pandas, Matplotlib |
 | 🏥 DATASUS Health Analysis | Dados públicos de saúde do Brasil | Python, Pandas, Seaborn |
 | 💳 Detecção de Fraude | Modelo preditivo de crédito | Scikit-learn, ML |
+| 🎵 Música Brasileira & Streaming | Análise de artistas brasileiros no Spotify/Deezer | Python, Pandas, Spotipy |
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&h
